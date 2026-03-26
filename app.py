@@ -106,28 +106,28 @@ class EcoGame:
                     {'text': 'Овощи для еды', 'pollution': 0, 'food': 3},
                     {'text': 'Деревья для леса', 'pollution': -2, 'food': 1}
                 ]
-            },
-            {
-                'question': 'Что ?',
-                'options': [
-                    {'text': 'Овощи для еды', 'pollution': 0, 'food': 3},
-                    {'text': 'Деревья для леса', 'pollution': -2, 'food': 1}
-                ]
-            },
-            {
-                'question': 'Что посадить?',
-                'options': [
-                    {'text': 'Овощи для еды', 'pollution': 0, 'food': 3},
-                    {'text': 'Деревья для леса', 'pollution': -2, 'food': 1}
-                ]
-            },
-            {
-                'question': 'Что посадить?',
-                'options': [
-                    {'text': 'Овощи для еды', 'pollution': 0, 'food': 3},
-                    {'text': 'Деревья для леса', 'pollution': -2, 'food': 1}
-                ]
-            }
+             },
+        #     {
+        #         'question': 'Что ?',
+        #         'options': [
+        #             {'text': 'Овощи для еды', 'pollution': 0, 'food': 3},
+        #             {'text': 'Деревья для леса', 'pollution': -2, 'food': 1}
+        #         ]
+        #     },
+        #     {
+        #         'question': 'Что посадить?',
+        #         'options': [
+        #             {'text': 'Овощи для еды', 'pollution': 0, 'food': 3},
+        #             {'text': 'Деревья для леса', 'pollution': -2, 'food': 1}
+        #         ]
+        #     },
+        #     {
+        #         'question': 'Что посадить?',
+        #         'options': [
+        #             {'text': 'Овощи для еды', 'pollution': 0, 'food': 3},
+        #             {'text': 'Деревья для леса', 'pollution': -2, 'food': 1}
+        #         ]
+        #     }
         ]
 
         
